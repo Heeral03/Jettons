@@ -1,5 +1,5 @@
 {
-  "url": "http://localhost:5173",
-  "name": "Jetton dApp",
-  "iconUrl": "https://ton.org/download/ton_symbol.png"
+  "name": "Jettons DApp",
+  "url": "https://jettons.vercel.app/",
+  "iconUrl": "
 }
