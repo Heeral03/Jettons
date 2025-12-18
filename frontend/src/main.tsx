@@ -5,8 +5,8 @@ import { TonConnectUIProvider } from '@tonconnect/ui-react';
 import App from './App';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
-  <TonConnectUIProvider manifestUrl="/tonconnect-manifest.json">
+<TonConnectUIProvider manifestUrl="https://jettons-hlux.vercel.app/tonconnect-manifest.json">
+  <App />
+</TonConnectUIProvider>
 
-    <App />
-  </TonConnectUIProvider>
 );
